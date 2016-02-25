@@ -1,0 +1,9 @@
+Name: Backslash to Forward slash
+Description: convert backward slash to forward slash.
+Binding: bs2fs
+Interactive: false
+
+Name: Insert %>%
+Description: insert `%>`% at the cursor position.
+Binding: insertInPipe
+Interactive: false
