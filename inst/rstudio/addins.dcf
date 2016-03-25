@@ -7,3 +7,8 @@ Name: Insert %>%
 Description: insert `%>`% at the cursor position.
 Binding: insertInPipe
 Interactive: false
+
+Name: InsertRmdSensible
+Description: Call this function to add basic markdown setup
+Binding: insertRmdSensible
+Interactive: false
